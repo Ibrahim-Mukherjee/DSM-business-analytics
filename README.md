@@ -7,7 +7,7 @@
 
 Outlier Analysis, Model Selection, Missing Values, Descriptive Statistics
 
-###  [Reuters Author NLP](https://colab.research.google.com/drive/10wn2oI8f8_IAHYj7sXbrmx0C1wY6e4ny) - Google Colab
+###  NLP](https://colab.research.google.com/drive/10wn2oI8f8_IAHYj7sXbrmx0C1wY6e4ny) - Google Colab
 
 Process Text, pyLDAvis, Word Embeddings, Text Evaluation, fuzzywuzzy
 
