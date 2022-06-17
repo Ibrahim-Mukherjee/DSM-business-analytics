@@ -3,7 +3,7 @@
 ---
 #### All projects are of intermediate to advanced difficulty and the projects are not presented in any particular order; nothing stops you from starting at week six for example. 
 
-###  [Bike Share Business Case](https://colab.research.google.com/drive/1quNMjDZsFkw7GQ3cOoGW12G0AAfPuujy) - Google Colab
+###  Business Case](https://colab.research.google.com/drive/1quNMjDZsFkw7GQ3cOoGW12G0AAfPuujy) - Google Colab
 
 Outlier Analysis, Model Selection, Missing Values, Descriptive Statistics
 
